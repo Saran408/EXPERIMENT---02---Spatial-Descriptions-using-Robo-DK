@@ -1,11 +1,15 @@
-# EXPERIMENT-01-Spatial-Descriptions-using-Robo-DK
-## AIM
+### EXP NO : 01
+### DATE : 04/10/22
+
+# <p align = "center"> Named Entity Recognition </p>
+
+## AIM :
 To Simulate the Robot DK software for spatial descriptions
 
-## System Requirement
+## SYSTEM REQUIREMENT : 
 Windows 7 / 10, 8GB Ram, 2GB Graphics Card, 1024x768 pixel resolution display, RoboDK
 
-## Procedure
+## PROCEDURE :
 Select File➔ Open.
 
 ![image](https://user-images.githubusercontent.com/113594316/190379141-f3c33120-246f-4bf2-9ff1-9788867b9e78.png)
@@ -20,7 +24,7 @@ Press open ➔ Allow popup RoboDK protocol ➔ waite until load the robot in scr
 
 ![image](https://user-images.githubusercontent.com/113594316/190380630-87df0e9c-87e4-49cf-8ac2-1fb2e9cbfd2b.png)
 
-### Create Targets
+### CREATE TARGETS : 
 
 Robot positions are recorded as Targets. Follow these steps to create two targets as a new home target and approach target respectively:
 
@@ -34,9 +38,9 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 
 Similaly fix target in the given position 
 
-## Output
+## OUTPUT : 
 ![image](https://user-images.githubusercontent.com/75235427/199651243-d49ba171-2638-4fdb-b55a-f04407c4775f.png)
 
-## Results
+## RESULTS :
 
 Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK. 
