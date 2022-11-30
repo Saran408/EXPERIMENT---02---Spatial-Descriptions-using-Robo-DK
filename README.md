@@ -1,7 +1,7 @@
 ### EXP NO : 01
 ### DATE : 04/10/22
 
-# <p align = "center"> Named Entity Recognition </p>
+# <p align = "center"> Spatial Descriptions using Robo DK </p>
 
 ## AIM :
 To Simulate the Robot DK software for spatial descriptions
